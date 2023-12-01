@@ -7,5 +7,5 @@
 
 @font-face{
     font-family: stardew;
-    src: url("/font/Stardew_Valley.ttf");
+    src:url(../font/Stardew_Valley.ttf)
 }
