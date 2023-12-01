@@ -1,5 +1,5 @@
 body{
-    background-image: url(/images/background.png);
+    background-image: url(./images/background.png);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -62,7 +62,7 @@ header{
 
 }
 .back{
-    background-image: url(/images/Stardew\ valley.jpeg);
+    background-image: url(./images/Stardew\ valley.jpeg);
     backface-visibility: hidden;
 }
 
