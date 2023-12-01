@@ -4,14 +4,14 @@ const timer = document.querySelector('.timer');
 const characters =[
     'Abigail',
     'Lewis',
-    'morris',
-    'pam',
-    'haley',
+    'Morris',
+    'Pam',
+    'Haley',
     'QI',
-    'wizard',
-    'linus',
-    'sandy',
-    'sebastian'
+    'Wizard',
+    'Linus',
+    'Sandy',
+    'Sebastian'
 ]
 
 const createElement = (tag, className) => {
@@ -82,7 +82,7 @@ const createCard = (character) => {
     const front = createElement('div', 'face front')
     const back = createElement('div', 'face back')
 
-    front.style.backgroundImage = `url(../images/${character}.png)`;
+    front.style.backgroundImage = `url('images/${character}.png')`;
 
     card.appendChild(front);
     card.appendChild(back);
