@@ -1,5 +1,5 @@
 # Jogo da Memória do Stardew Valley 🤎✨🐔
-> Jogo da memória de Stardew Valley, utilizando apenas HTML, CSS e JavaScript.
+> Jogo da memória do Stardew Valley, utilizando apenas HTML, CSS e JavaScript.
 ### Imagens do Projeto
 <img src="./images/1.png" alt="">
 <img src="./images/2.png" alt="">
